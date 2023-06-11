@@ -1,6 +1,7 @@
+package recursion_Star_Pattern;
 import java.util.Scanner;
 
-public class Pattern_LeftHalfInvertedPyramid {
+public class InvertedHalfPyramid {
 
 	static int rows;
 	private static void printStars(int stars,int row) {
